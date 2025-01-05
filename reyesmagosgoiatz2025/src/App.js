@@ -12,13 +12,10 @@ const App = () => {
       />
       {/* Mensaje superpuesto en la parte superior */}
       <div className="message-container">
-        <p className="text-gradient">Vale por una comida para dos en Basuki</p>
-        <span className="emojis">😘</span>
-        <br />
-        <span className="emojis emojis2">😘</span>
-        <br />
-        <span className="emojis emojis3">😘</span>
-        <br />
+        <span className="text text-gradient">
+          Vale por una comida para dos en Basuki
+        </span>
+        <span className="emojis">😘😘😘</span>
       </div>
     </div>
   )

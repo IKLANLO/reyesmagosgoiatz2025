@@ -25,7 +25,7 @@ code {
   padding: 1rem /* 16px */;
 }
 
-p {
+.text {
   font-size: 3.6rem;
   line-height: 3.6rem;
   --tw-text-opacity: 1;
@@ -62,7 +62,7 @@ img {
 }
 
 .text-gradient {
-  background: linear-gradient(90deg, #fcc1ed, #ebf875, #00ffea);
+  background: linear-gradient(90deg, #ffffff, #ebf875);
   background-size: 300% 300%;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -73,9 +73,9 @@ img {
 .emojis {
   position: absolute;
   top: 41%;
-  left: 20%;
+  left: 25%;
   transform: translate(-50%, -50%);
-  font-size: 3rem;
+  font-size: 2rem;
   animation: emojiAnimation 5s infinite;
 }
 @keyframes emojiAnimation {
@@ -88,12 +88,4 @@ img {
   100% {
     transform: translate(-50%, -50%) scale(1);
   }
-}
-
-.emojis2 {
-  top: 50%;
-}
-
-.emojis3 {
-  top: 59%;
 }
