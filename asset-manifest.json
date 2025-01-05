@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reyesmagosgoiatz2025/static/css/main.daf54ab4.css",
+    "main.js": "/reyesmagosgoiatz2025/static/js/main.7eec3029.js",
+    "static/js/488.0e82a722.chunk.js": "/reyesmagosgoiatz2025/static/js/488.0e82a722.chunk.js",
+    "index.html": "/reyesmagosgoiatz2025/index.html",
+    "main.daf54ab4.css.map": "/reyesmagosgoiatz2025/static/css/main.daf54ab4.css.map",
+    "main.7eec3029.js.map": "/reyesmagosgoiatz2025/static/js/main.7eec3029.js.map",
+    "488.0e82a722.chunk.js.map": "/reyesmagosgoiatz2025/static/js/488.0e82a722.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.daf54ab4.css",
+    "static/js/main.7eec3029.js"
+  ]
+}
